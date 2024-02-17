@@ -3,5 +3,5 @@
 version = 3
 
 [[package]]
-name = "RustTodo"
+name = "rust-todo"
 version = "0.1.0"
